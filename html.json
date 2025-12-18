@@ -1,0 +1,19 @@
+{
+  "Student": {
+    "prefix": "htmlstudent",
+    "body": [
+      "<!-- Name: Imran | Surname: Karimov | Group: EDIfu24/2 -->",
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "    <meta charset=\"UTF-8\">",
+      "    <title>${1:Document}</title>",
+      "</head>",
+      "<body>",
+      "    ${2}",
+      "</body>",
+      "</html>"
+    ],
+    "description": "HTML Template"
+  }
+}
